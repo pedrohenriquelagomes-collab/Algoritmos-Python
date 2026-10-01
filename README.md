@@ -13,6 +13,7 @@ O repositório está dividido em duas partes principais:
 
 * [**`exercicios_1_ao_45/`**](./EXRC_01_AO_45/) — Lista completa com os 45 exercícios do Lote 1.1 (estruturas sequenciais, condicionais e laços de repetição).
 * [**`exercicios_18_ao_26_modulares/`**](./EXRC_18_AO_26_MODULARES/) — Refatoração dos exercícios condicionais (18 ao 26) aplicando **procedimentos (sem retorno e sem parâmetros)**, **variáveis globais** e **função `main()`**.
+* [**`exercicios 27 ao 29 e 3A e 3B parâmetros/`**](.EXRC_27_AO_29_E_3-A-B_PARÂMETROS/) — Refatoração dos exercícios 27 ao 29 utilizando passagem de parâmetros, variáveis locais e função `main()`**, além dos exercícios 3A e 3B, desenvolvidos com funções, passagem de parâmetros e retorno de valores.
 
 ---
 ## 💻 Resumo da Lista Geral (Exercícios 01 ao 45)
@@ -38,6 +39,25 @@ Esta pasta contém a reestruturação modular dos exercícios com sub-rotinas e 
 | **Ex 24** | Verificação de número divisível por 2 e por 3 |
 | **Ex 25** | Cálculo do tempo de duração de um jogo (horas e minutos) |
 | **Ex 26** | Verificação se o maior número é múltiplo do menor | 
+
+## 📌 Conteúdo dos Exercícios com Parâmetros (27 ao 29)
+
+Esta pasta contém a refatoração dos exercícios utilizando passagem de parâmetros, variáveis locais e função main():
+
+| Exercício |	Descrição |
+| :--- | :--- |
+| **Ex 27** |	Cálculo da velocidade média em km/h a partir do número de voltas, extensão do circuito e tempo |
+| **Ex 28** |	Cálculo do novo preço de um produto conforme a média mensal de vendas e o preço atual |
+| **Ex 29** |	Cálculo do valor corrigido de um investimento em 30 dias, considerando poupança ou renda fixa |
+
+## 📌 Conteúdo dos Exercícios com Funções (3A e 3B)
+
+Esta parte contém exercícios desenvolvidos com funções, passagem de parâmetros e retorno de valores:
+
+| Exercício |	Descrição |
+| :--- | :--- |
+| **Ex 3A**	|Função que recebe um valor inteiro e retorna seu fatorial |
+| **Ex 3B** |	Funções para cálculo de fatorial e divisão, utilizadas para calcular a série 1 + 1/1! + 1/2! + ... + 1/N! |
 
 ## 🐳 Evidências de Execução no Docker
 
