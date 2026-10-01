@@ -13,7 +13,7 @@ O repositório está dividido em duas partes principais:
 
 * [**`exercicios_1_ao_45/`**](./EXRC_01_AO_45/) — Lista completa com os 45 exercícios do Lote 1.1 (estruturas sequenciais, condicionais e laços de repetição).
 * [**`exercicios_18_ao_26_modulares/`**](./EXRC_18_AO_26_MODULARES/) — Refatoração dos exercícios condicionais (18 ao 26) aplicando **procedimentos (sem retorno e sem parâmetros)**, **variáveis globais** e **função `main()`**.
-* [**`exercicios 27 ao 29 e 3A e 3B parâmetros/`**](.EXRC_27_AO_29_E_3-A-B_PARÂMETROS/) — Refatoração dos exercícios 27 ao 29 utilizando passagem de parâmetros, variáveis locais e função `main()`**, além dos exercícios 3A e 3B, desenvolvidos com funções, passagem de parâmetros e retorno de valores.
+* [**`exercicios 27 ao 29 e 3A e 3B parâmetros/`**](./EXRC_27_AO_29_E_3-A-B_PARÂMETROS/) — Refatoração dos exercícios 27 ao 29 utilizando passagem de parâmetros, variáveis locais e função `main()`**, além dos exercícios 3A e 3B, desenvolvidos com funções, passagem de parâmetros e retorno de valores.
 
 ---
 ## 💻 Resumo da Lista Geral (Exercícios 01 ao 45)
