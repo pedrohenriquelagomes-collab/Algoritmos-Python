@@ -70,7 +70,7 @@ def main():
 
     contador: int = 0
 
-    dir = 'tmp/exercicios/'
+    dir = '/tmp/exercicios/'
     arq = 'ex21.txt'
 
     os.makedirs(dir, exist_ok=True)
